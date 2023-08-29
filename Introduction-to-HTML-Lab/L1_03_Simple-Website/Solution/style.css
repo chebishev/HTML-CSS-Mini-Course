@@ -4,7 +4,8 @@ body {
 }
 nav {
     background: #234465;
-    padding: 15px;
+    padding: 5px;
+    text-align: center;
 }
 nav li{
     display: inline-block;
@@ -31,9 +32,13 @@ section h1 {
     text-align: center;
 }
 footer {
-
-    background: #444;
+    padding: 20px;
+    background: #234465;
     color: #fff;
+    padding-top: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
     text-align: center;
 }
 header p {
